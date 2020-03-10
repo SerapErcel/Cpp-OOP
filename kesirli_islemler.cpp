@@ -1,5 +1,5 @@
 #include <iostream>
-// Serap Er�el 180290003
+// Serap Erçel 180290003 kesirli sayılarda 4 işlem
 using namespace std;
 float kesirislemleri(int payx, int paydax,char isaret, int payy, int payday){
 if(isaret=='+'){
