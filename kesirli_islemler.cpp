@@ -1,7 +1,7 @@
 #include <iostream>
 // Serap Erçel 180290003 kesirli sayılarda 4 işlem
 using namespace std;
-float kesirislemleri(int payx, int paydax,char isaret, int payy, int payday){
+float kesirislemleri(float payx, float paydax,char isaret, float payy, float payday){
 if(isaret=='+'){
     float sonuc=(payx/paydax)+(payy/payday);
     return sonuc;
